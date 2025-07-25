@@ -11,7 +11,7 @@ This project is designed as a basic introduction to input/output operations, ari
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohammed-soff21/AvgArray.git
+   git clone https://github.com/mohammed-soff21/SumArray.git
 2. Open the solution:
    - Launch Visual Studio
    - Open the SumArray.sln file
