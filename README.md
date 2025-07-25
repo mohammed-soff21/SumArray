@@ -1,7 +1,7 @@
 # SumArray
 
 A simple **C# Console Application** that asks the user to enter the size of an integer array and fill that array by the elements too and print the sum of these elements.
-This project is designed as a basic introduction to input/output operations, arithmetic operations as well as array operations in C#
+This project is designed as a basic introduction to input/output operations, arithmetic operations, and array operations in C#
 
 ## Requirements
 - [.NET SDK](https://dotnet.microsoft.com/en-us/download) (version 6.0 or later)
